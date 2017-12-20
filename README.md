@@ -1,0 +1,2 @@
+# yazbel-python-istihza
+ISTIHZA
